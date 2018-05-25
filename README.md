@@ -19,7 +19,7 @@ Friday 25th May - Friday 29th June.
 
 * Section 01: Fri 10-11:55 AM
 * Section 02: Fri 2:20-4:15PM
-* Quizzes joined 9am - 9:30 AM on Fridays rooms 154-156 starting June 1st.
+* Quizzes joined 9:30 AM - 100 AM on Fridays rooms 154-156 starting June 1st.
 
 **INSTRUCTION FORMAT**. <br>
 Class runs for 1:50 hours, 1 day/week. Instructor-student interaction during lecture is encouraged, and we will mix in mini-exercises / labs during class. All programming will be done in the Python 3 programming language unless otherwise specified.
