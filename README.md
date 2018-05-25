@@ -4,7 +4,6 @@ MSAN689 Problem solving with Python
 
 This course is part of the [MS in Analytics program at the University of San Francisco](http://analytics.usfca.edu).
 
-
 # Administrivia
 
 **INSTRUCTOR.** [Laurynas Riliskis](https://www.linkedin.com/in/riliskis/) finished his Postdoc at Stanford University. He received his Ph.D. in Computer Science from Luleå University of technology in 2014. 
