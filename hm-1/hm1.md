@@ -90,3 +90,8 @@ test_htableoo.py::test_str_to_set PASSED                                        
 
 ========================================== 4 passed in 0.06 seconds ==========================================
 ```
+
+# How to submit
+
+Use the invitation link to create repo.
+https://classroom.github.com/a/9i7b-pBP
