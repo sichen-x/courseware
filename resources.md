@@ -27,6 +27,22 @@ https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-obj
 
 * Class 2
 
+Data structures
+https://en.wikipedia.org/wiki/Primitive_data_type
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types
+https://en.wikipedia.org/wiki/List_of_data_structures
+
+https://docs.python.org/3.6/library/array.html
+https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python
+
+Quick sort
+https://en.wikipedia.org/wiki/Quicksort
+
+graph
+https://en.wikipedia.org/wiki/Cycle_graph
+https://en.wikipedia.org/wiki/Directed_acyclic_graph
+https://en.wikipedia.org/wiki/Shortest_path_problem
+
 * Class 3
 
 * Class 4
