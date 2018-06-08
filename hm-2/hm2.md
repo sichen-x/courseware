@@ -66,6 +66,10 @@ class Graph:
 
   def find_path_bi(self, start_node, end_node):
     """
+    *******
+    7/6/2018 17:02:32 L:
+    this is extra credit assignment
+    *******
     return one path between start and end
     search is performed Bidirectional
     [Node 1, Node 2, Node 3]
@@ -121,7 +125,6 @@ This is actually good starting point! You must implement following test classes.
 
 Note 1, you will need to manually construct graphs and node dictionaries for testing. One way to simplify is to make them module level and reuse in various tests.
 
-NOTE 2: more clarification for testing implementation will be provided.
 
 ```
 def test_empty_node:
