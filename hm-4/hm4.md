@@ -47,7 +47,7 @@ For example: `python taco_cat.py "A nut for a jar of tuna"` would output: `yes`.
 
 For input: `python taco_cat.py "Call me maybe"` it would output `no`.
 
-Case and any special characters should be ignored so that `ro"Ra$t"or!?` is equal to `rotator`
+Case and any special characters should be ignored so that `ro"Ta$t"or!?` is equal to `rotator`
 
 Homework directory contains `palindrome_test_file.txt`with few examples and words.
 
